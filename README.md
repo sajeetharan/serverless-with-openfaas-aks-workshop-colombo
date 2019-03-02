@@ -1,4 +1,4 @@
-# Security for AKS - AKS Workshop 2019 Colombo
+# Going Serverless using OpenFaas - AKS Workshop 2019 Colombo
 Going Serverless using OpenFaas with AKS Hands-On Session Guidelines for AKS Workshop 2019.
 
 # Content of the Hands-On Session
